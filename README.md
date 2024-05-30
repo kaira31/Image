@@ -13,7 +13,7 @@ C++ Compiler: You can use Visual Studio or any other C++ compiler.
 Integrated Development Environment (IDE): Visual Studio Code is recommended.
 
 MinGW: If you're on Windows, you'll need MinGW for compiling.
-
+ 
 ## Features 
 
 **Image Display:**

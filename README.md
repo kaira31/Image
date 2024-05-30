@@ -4,7 +4,7 @@
 Real Time Image Video Filtering is a powerful C/C++ application leveraging OpenCV for real-time image and video processing and filtering. This project provides a comprehensive platform to explore various techniques for manipulating and transforming images and video streams in real-time, going beyond simple filter application to delve deeper into the realm of computer vision.
 
 ## Installation
-To get started with Real Time Image Video Filtering, you'll need:
+To get started you'll need:
 
 OpenCV: OpenCV library for image and video processing.
 C++ Compiler: You can use Visual Studio or any other C++ compiler.
